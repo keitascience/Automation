@@ -7,7 +7,7 @@
  その結果、作業効率向上および番号の入力ミスのリスクを低減しました。   
  
  番号例
- ![img13](https://user-images.githubusercontent.com/67690861/122696638-812f3900-d27e-11eb-99c0-36011a53a1bd.png)
+
 
  
  
